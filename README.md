@@ -1,10 +1,10 @@
 # Guess-My-Number
 Game where the player guesses the hidden number. Each incorrect guess decreases the score by 1. The high score is also saved. 
 
-![alt text](https://ibb.co/CKYcnKZ)
+![2021-06-15_09-31-53](https://user-images.githubusercontent.com/75664914/122090397-960e5700-cdbc-11eb-9d5f-2078df3ae579.png)
 
 When the player guesses correctly, the background turns green and the number is revealed!
-
+![2021-06-15_09-31-41](https://user-images.githubusercontent.com/75664914/122090405-973f8400-cdbc-11eb-8cee-e3a4725aebff.png)
 
 # Code description
 HTML and CSS were provided. 
